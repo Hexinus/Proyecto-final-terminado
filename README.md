@@ -17,3 +17,6 @@ Un cliente para probar APIs como Postman o Insomnia
 
 Usiario:    admin@foro.com
 Contraseña: 123456
+
+Ejecutable en:
+foroapi > src > main > java > com.foro.foroapi > ForoapiApplication
